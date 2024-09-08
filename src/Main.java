@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         while(true) {
-            System.out.println("---Vehicle list---");
+            System.out.println("---Vehicle application---");
             System.out.println("1. Register new vehicle");
             System.out.println("2. Exit the application");
             int choice;
